@@ -1,0 +1,18 @@
+{
+    "name": "vendor/ci-database",
+    "description": "Set the active record libary and yours drivers from CodeIgniter to standalone for use with any php code with any project, without necessary use all CodeIgniter Framework.",
+    "authors": [
+        {
+            "name": "AntonioJr",
+            "email": "antoniojr75@outlook.com"
+        }
+    ],
+    "require": {
+        "php": "^5.6"
+    },
+    "autoload": {
+        "psr-4": {
+            "CI\\": "src/"
+        }
+    }
+}
