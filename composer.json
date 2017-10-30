@@ -1,5 +1,6 @@
 {
-    "name": "vendor/ci-database",
+    "name": "emlight/ci-database",
+    "type":"library",
     "description": "Set the active record libary and yours drivers from CodeIgniter to standalone for use with any php code with any project, without necessary use all CodeIgniter Framework.",
     "authors": [
         {
